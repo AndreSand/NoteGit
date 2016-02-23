@@ -7,4 +7,4 @@ android:
     - extra-android-m2repository
 
 script:
-   - ./gradlew build checks
+   - ./gradlew tasks
